@@ -3,6 +3,8 @@ AircraftWars game based on FLTK on windows
 
 A game like Lotus Land Story which is a cpp project based on FLTK library.
 
+![avatar](Snipaste_2020-06-30_17-33-57.png)
+
 Author: Y.F. Wang
 Zhejiang University
 
